@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "PT Serif", serif;
+  padding-top: 2em;
+  padding-bottom: 3em;
+  margin: auto;
+  background-color: #F8F8F8;
+}
+
+.text {
+  margin-left: 10em;
+  margin-right: 10em;
+  margin-bottom: 3em;
+}
+
+p {
+  line-height: 1.7;
+  font-size: 1.1em;
+  color: #323232;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+a {
+  color: #fe8807;
+  text-decoration: none;
+}
+
+#twitter {
+  opacity: 0.5;
+}
+
+#twitter:hover {
+  opacity: 1.0;
+}
