@@ -29,6 +29,10 @@ a {
   text-decoration: none;
 }
 
+p.sources {
+  font-size: 0.8em;
+}
+
 #twitter {
   opacity: 0.5;
 }
