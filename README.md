@@ -1,1 +1,2 @@
-Interactive map of NYC area community media outlets listed in the Center for Community Media's [Many Voices, One City](http://directory.ccm.journalism.cuny.edu/) directory.
+This [interactive map](https://ccmnewmarkj.github.io/cei/) is part of the Center for Community Media's [2021 NYC Elections Initiative](https://www.journalism.cuny.edu/centers/center-community-media/city-elections-initiative/), which supports community media in deepening and expanding their coverage of the elections, and
+connects their publishers with prospective advertisers in political campaigns, city government agencies, and voter education campaigns.
